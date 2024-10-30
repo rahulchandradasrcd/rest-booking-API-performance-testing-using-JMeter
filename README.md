@@ -10,3 +10,10 @@ This project demonstrates Performance Testing using JMeter, providing a collecti
 
 ## Overview
 This repository contains a JMeter project for performance testing of the [Restful-Booker](https://restful-booker.herokuapp.com/apidoc/index.html) Website.
+
+## Usage
+1. Clone the repository to your Local Machine From:
+````
+https://github.com/rahulchandradasrcd/rest-booking-api-performance-testing-using-jmeter.git
+````
+

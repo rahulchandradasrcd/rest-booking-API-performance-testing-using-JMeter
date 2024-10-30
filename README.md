@@ -73,7 +73,8 @@ The sample test plan includes the following components:
        ![2800](https://github.com/user-attachments/assets/d307d2c4-7202-445c-b8d3-4da3aecc017a)
 6. 2900 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 157 And Total Concurrent API requested: 17400.
        ![2900](https://github.com/user-attachments/assets/e34a8694-0a18-440d-8b1a-3e839532ff65)
-#### While executed 2900 concurrent request, found  82 request got connection timeout and error rate is 0.23%. 
+### While executed 2900 concurrent request, found  3160 request got connection timeout and error rate is 18.16%. 
+### Summary: Server can handle almost concurrent 16900 API call with almost zero (0) error rate.
 
 
 
